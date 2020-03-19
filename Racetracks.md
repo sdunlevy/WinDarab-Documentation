@@ -1,5 +1,5 @@
 ### Racetracks
-Racetracks are managed by hte **Darab Explorer – Racetrack**.
+Racetracks are managed by the **Darab Explorer – Racetrack**.
  
 Following processing items are provided by the **Darab Explorer – Racetrack** and described in detail in the next sections:
 
